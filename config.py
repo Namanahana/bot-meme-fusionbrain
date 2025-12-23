@@ -1,0 +1,3 @@
+TOKEN = "TOKEN"
+API_KEY = ""
+API_SECRET = ""
